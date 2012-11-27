@@ -23,7 +23,7 @@
 <!--<![endif]-->
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>" />
-<meta name="viewport" content="width=1050px" />
+<meta content='width=device-width, height=device-height, initial-scale=1.0, user-scalable=no' name='viewport'>
 <title><?php
 	/*
 	 * Print the <title> tag based on what is being viewed.
